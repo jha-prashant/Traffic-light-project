@@ -1,0 +1,38 @@
+.main{
+    height: 300px;
+    width: 150px;
+    background-color: black;
+    align-items: center;
+}
+.red{
+    height: 90px;
+    width: 40px;
+    border: solid black;
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 2.5rem;
+}
+.yellow{
+    height: 90px;
+    width: 40px;
+    border: solid black;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-left: 2.5rem;
+}
+.green{
+    height: 90px;
+    width: 40px;
+    border: solid black;
+    border-radius: 50%;
+    background-color: green;
+    margin-left: 2.5rem;
+}
+.line{
+    height: 250px;
+    width: 5px;
+    background-color: black;
+    border: solid black;
+    border-radius: 10%;
+    margin-left: 4rem;
+}
